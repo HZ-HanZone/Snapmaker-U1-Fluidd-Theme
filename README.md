@@ -11,7 +11,7 @@ A sci-fi glass style theme for the Snapmaker U1 Fluidd web interface.
 3. Create a folder named `.fluidd-theme` (note the leading dot).
 ![image](ScreenShots/Configuration.png)
 5. Upload `custom.css`, `logo.png`, and `U1ToolHead.png`.
-
+![image](ScreenShots/fluidd-theme.png)
 6. **Do not** enable the built-in Fluidd background image setting (the background is handled by CSS).
 7. Hard-refresh the browser (`Ctrl + F5`).
 

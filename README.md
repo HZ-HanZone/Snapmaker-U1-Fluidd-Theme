@@ -1,6 +1,6 @@
 # Snapmaker-U1-Fluidd-Theme
 A sci-fi glass style theme for the Snapmaker U1 Fluidd web interface.
-
+![image](ScreenShots/MainPage.png)
 
 ### Installation
 
